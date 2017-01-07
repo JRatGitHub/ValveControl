@@ -1,5 +1,5 @@
 <?php
-class ValveControl extends IPSModule {
+class JRValveControl extends IPSModule {
   public function Create() {
     parent::Create();
     $this->RegisterPropertyString('Mac', '');
