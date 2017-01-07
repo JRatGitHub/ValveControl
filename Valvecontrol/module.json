@@ -1,0 +1,14 @@
+{
+    "id": "{d2a7bb2a-835c-434b-819e-6e2b4f4d6ef4}",
+    "name": "JRValveControl",
+    "type": 0,
+    "vendor": "JR",
+    "aliases": 
+    [
+        "JRValveControl"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "JRValveControl"
+}
