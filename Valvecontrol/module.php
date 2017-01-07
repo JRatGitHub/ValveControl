@@ -4,6 +4,7 @@ class JRValveControl extends IPSModule {
     parent::Create();
     $this->RegisterPropertyString('Mac', '');
     $this->RegisterPropertyInteger('ScanInterval', 60);
+    $this->RegisterPropertyInteger('ValveDelay',60);
   }
   public function ApplyChanges() {
     parent::ApplyChanges();
