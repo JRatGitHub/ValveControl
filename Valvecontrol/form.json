@@ -1,8 +1,9 @@
 {
     "elements":
             [
-                { "type": "Label", "label": "Intervall für die Aktualisierung aller Daten:" },
-                { "type": "IntervalBox", "name": "Intervall", "caption": "Secunden" }           
+                { "type": "Label", "label": "Interval to update fÃ¼r die Aktualisierung aller Daten:" },
+                { "type": "IntervalBox", "name": "Intervall", "caption": "Secunden" }
+                { "type": "ValveDelay", "name": "Valve delay", "caption": "Seconds"}
             ],
     "actions":
             [
