@@ -3,7 +3,7 @@
             [
                 { "type": "Label", "label": "Interval to update für die Aktualisierung aller Daten:" },
                 { "type": "IntervalBox", "name": "Intervall", "caption": "Secunden" },
-                { "type": "ValveDelay", "name": "Valve delay", "caption": "Seconds"}
+                { "type": "ValveDelay", "name": "ValveDelay", "caption": "Seconds"}
             ],
     "actions":
             [
